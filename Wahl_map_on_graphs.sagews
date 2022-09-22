@@ -408,9 +408,6 @@ def add_to_file(examples):
         '''Here is where the file is created and written in with the information above.'''
         f.write('\n'.join(lines))
 
-
-add_to_file(sample_random_girth5(50,275))
-print("DONE")
 ︡c11cf849-aede-417d-9822-6ec8e2abdac2︡{"stdout":"'\\nCode by Angela Hanson. Last updated 9/12/22.\\n'"}︡{"stdout":"\n"}
 
 
